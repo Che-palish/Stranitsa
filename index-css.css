@@ -1,0 +1,238 @@
+.navbar{ background:Light;}
+.nav-link , .navbar-brand{ color: #270316; cursor: pointer;}
+.nav-link:hover{ background: #f4f4f4; color: #270316;}
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+#img1-1{opacity: 100%; width: 100%;
+height: 800px; position: relative;}
+#h1-1{
+color: white;
+text-shadow: black 2px 2px 4px;
+text-align: center;
+top: 120px;
+font-size: 50px;
+position: absolute;
+}
+#h1-2{
+color: #6F5763;
+text-shadow: black 1px 1px 2px;
+position: absolute;
+text-align: center;
+font-size: 30px;
+top: 370px;
+}
+#btn1-1{
+position: absolute;
+background-color: #270316;
+color: white;
+top: 700px;
+left:7%;
+width: 40%;
+}
+#btn1-2{
+position: absolute;
+background-color: #270316;
+color: white;
+top: 700px;
+left: 55%;
+width: 40%;
+}
+
+#blog{
+ position: absolute;
+}
+#h2-1{ font-size: 48px; 
+color: #270316;
+text-align: center;
+}
+#img2-1{
+ width: 100%;
+ height: 200px;
+}
+#h2-2{ font-size: 36px;
+color: #6F5763;
+text-shadow: black 1px 1px 2px;
+ 
+}
+#card-body{
+ padding: 5px;
+}
+.card-text{color: #908C89; font-size: 26px;}
+#btn2-1{ background-color:  #270316; color: white; width: 100%;}
+ 
+.h3-1{ position: relative;
+top: -650px;
+    padding: 5px;
+margin: 20px;
+}
+.h3-1 h1{
+text-align:center;
+color: white;
+text-shadow: black 2px 2px 4px;
+font-size: 56px;
+}
+.h3-1 p{
+color: #6F5763;
+text-shadow: black 1px 1px 2px;
+text-align: center;
+font-size: 36px;
+}
+#btn3-1{
+background-color: #270316;
+color: white;
+left:7%;}
+
+.block4-1{
+width: 100%;
+left: 0px;
+position: relative;
+top: -550px;
+}
+
+#container4-1{ opacity: 90%;
+padding: 80px;
+  margin: 5px;
+background-color: #6F5763;
+left: 50px;
+}
+#h4-2{ color: white;
+padding: 10px;
+text-align: center;
+font-size: 36px;}
+
+.block5-1{ position: relative;
+top: -520px;
+width:100%;
+background-color: #270316;
+padding: 10px;
+}
+#h5-1{
+text-align:center;
+color: white;
+font-size: 38px;
+}
+
+.h6-1{position: relative;
+top: -480px;
+left: 7%;
+padding: 3px;
+width: 53%;
+height: 300px;}
+.h6-1 h1{color: #270316;
+font-size: 30px;
+text-align: left;}
+.h6-1 p{color: #6F5763;
+font-size: 24px;
+text-align: left;
+width: 53%;}
+#btn6-1{
+background-color: #270316;
+color: white;
+top: 10px;
+position: relative;}
+#img6-1{ position: relative; top: -680px; left: 60%; width: 33%; right: 7%;  height: 300px;}
+
+.h6-2{position: relative;
+top: -600px;
+left: 53%;
+padding: 3px;
+width: 53%;
+height: 300px;
+right: 7%;}
+.h6-2 h1{color: #270316;
+font-size: 30px;
+text-align: left;}
+.h6-2 p{color: #6F5763;
+font-size: 24px;
+text-align: left;
+width: 53%;}
+#btn6-2{
+background-color: #270316;
+color: white;
+top: 10px;
+position: relative;}
+#img6-2{ position: relative; top: -850px; left: 7%; width: 33%; height: 300px;}
+
+.h6-3{position: relative;
+top: -730px;
+left: 7%;
+padding: 3px;
+width: 53%;
+height: 300px;}
+.h6-3 h1{color: #270316;
+font-size: 30px;
+text-align: left;}
+.h6-3 p{color: #6F5763;
+font-size: 24px;
+text-align: left;
+width: 53%;}
+#btn6-3{
+background-color: #270316;
+color: white;
+top: 10px;
+position: relative;}
+#img6-3{ position: relative; top: -1000px; left: 60%; width: 33%; right: 7%;  height: 300px;}
+
+#img7-1{opacity: 100%; width: 100%;
+height: 250px; position: relative;
+top: -990px;}
+
+#h7-1{position: relative;
+left: 10%;
+width: 55%;
+color: #270316;
+font-size: 44px;
+top: -1160px;
+text-align: left;}
+#btn7-1{position: relative;
+left: 70%;
+background-color: #270316;
+color: white;
+font-size: 24px;
+top: -1218px;
+text-align: left;}
+
+.block8-1{ position: relative;
+top: -1160px;
+width: 100%;
+background-color: #6F5763;
+padding: 4px;
+height: 150px;
+}
+#h8-1{
+positon: relative;
+text-align:left;
+color: white;
+font-size: 18px;
+width: 20px;
+left: 15%;
+}
+#h8-2{
+text-align: center;
+color: white;
+font-size: 18px;
+width: 20px;
+positon: relative;
+left: 65%;
+}
+#h8-3{
+text-align: right;
+color: white;
+font-size: 18px;
+width: 20px;
+positon: relative;
+left: 90%;
+}
+
+.block9-1{ position: relative;
+top: -1160px;
+width: 100%;
+background-color: #270316;
+padding: 4px;
+}
+#h9-1{
+text-align:center;
+color: white;
+font-size: 12px;
+}
+
